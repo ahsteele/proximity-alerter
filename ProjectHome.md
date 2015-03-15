@@ -1,0 +1,1 @@
+Allows a user to specify locations at which they would like to be alerted. Intent is that when a user approaches a location that they have setup an alert for phone should vibrate an SOS.
